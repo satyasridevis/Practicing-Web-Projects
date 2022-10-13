@@ -1,0 +1,22 @@
+[
+  {
+    "question": "what is Server Side Rendering?",
+    "answer": "Server-side rendering, also known as universal or isomorphic rendering, is an alternative rendering method for single-page applications. SSR generates the static HTML markup on the server so that the browser gets a fully rendered HTML page. This is done by using a backend runtime such as Node.js that can run the JavaScript code to build the UI components."
+  },
+  {
+    "question": "what is json server?",
+    "answer": "JSON Server is a Node Module that you can use to create demo rest json webservice in less than a minute. All you need is a JSON file for sample data."
+  },
+  {
+    "question": "what is react-router?",
+    "answer": "React Router is a standard library system built on top of the React and used to create routing in the React application using React Router Package. It provides the synchronous URL on the browser with data that will be displayed on the web page."
+  },
+  {
+    "question": "what is react-hook?",
+    "answer": "React Hooks. Hooks were added to React in version 16.8. Hooks allow function components to have access to state and other React features. Because of this, class components are generally no longer needed. Although Hooks generally replace class components, there are no plans to remove classes from React."
+  },
+  {
+    "question": "what is Nextjs?",
+    "answer": "Next.js is a React framework that gives you building blocks to create web applications. By framework, we mean Next.js handles the tooling and configuration needed for React, and provides additional structure, features, and optimizations for your application."
+  }
+]
